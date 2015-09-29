@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.wss4j:wss4j-ws-security-dom:2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wss4j/wss4j-ws-security-dom/2.0.4/eccdd4c95adc3ddbe60b137b01e037123a13aeab/wss4j-ws-security-dom-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wss4j/wss4j-ws-security-dom/2.0.4/7bd19a7d51b1e9af92547a533b539321d3e4d2e6/wss4j-ws-security-dom-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
