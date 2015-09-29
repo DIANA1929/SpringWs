@@ -13,4 +13,7 @@ import javax.jws.WebService;
 public interface WebServiceInterface {
     @WSDLDocumentation("Prueba Metodo Spring Rest")
     Cliente testService(@WebParam(name="cliente") Cliente cliente);
+
+    @WSDLDocumentation("Prueba Metodo Spring Rest")
+    Cliente testServiceClient(@WebParam(name="cliente") Cliente cliente);
 }
